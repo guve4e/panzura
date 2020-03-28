@@ -1,0 +1,4 @@
+<2020-03-28 13:05:18> Call to undefined method MailController::makeHtml()
+<2020-03-28 13:05:59> Class 'EmailContentBuilder' not found
+<2020-03-28 14:07:59> Call to undefined method MailController::setEmail()
+<2020-03-28 14:12:24> Return value of SendMail::setEmail() must be an instance of MailController, instance of SendMail returned

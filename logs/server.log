@@ -1,0 +1,1081 @@
+<2020-03-11 16:01:54> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51242
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583956886.404
+    [REQUEST_TIME] => 1583956886
+)
+
+<2020-03-11 16:04:49> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51328
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583957087.786
+    [REQUEST_TIME] => 1583957087
+)
+
+<2020-03-11 16:05:15> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51336
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583957109.499
+    [REQUEST_TIME] => 1583957109
+)
+
+<2020-03-11 16:13:07> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51410
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583957584.796
+    [REQUEST_TIME] => 1583957584
+)
+
+<2020-03-11 16:13:32> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51422
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583957610.95
+    [REQUEST_TIME] => 1583957610
+)
+
+<2020-03-11 16:14:23> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51434
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583957661.404
+    [REQUEST_TIME] => 1583957661
+)
+
+<2020-03-11 16:14:57> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1334
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51442
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583957695.523
+    [REQUEST_TIME] => 1583957695
+)
+
+<2020-03-11 16:15:22> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51452
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583957720.822
+    [REQUEST_TIME] => 1583957720
+)
+
+<2020-03-11 16:19:13> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1334
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51478
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583957951.635
+    [REQUEST_TIME] => 1583957951
+)
+
+<2020-03-11 16:20:34> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51502
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583958032.432
+    [REQUEST_TIME] => 1583958032
+)
+
+<2020-03-11 16:22:26> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51542
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583958144.75
+    [REQUEST_TIME] => 1583958144
+)
+
+<2020-03-11 16:23:49> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51556
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583958227.852
+    [REQUEST_TIME] => 1583958227
+)
+
+<2020-03-11 16:24:31> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51570
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583958268.113
+    [REQUEST_TIME] => 1583958268
+)
+
+<2020-03-11 16:34:14> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1335
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51684
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583958852.669
+    [REQUEST_TIME] => 1583958852
+)
+
+<2020-03-11 16:35:10> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1333
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51710
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583958908.29
+    [REQUEST_TIME] => 1583958908
+)
+
+<2020-03-11 16:35:28> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => curl/7.64.0
+    [HTTP_ACCEPT] => */*
+    [CONTENT_LENGTH] => 1333
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_EXPECT] => 100-continue
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 51718
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment
+    [PATH_TRANSLATED] => /var/www/html/payment
+    [PHP_SELF] => /braintree-service/index.php/payment
+    [REQUEST_TIME_FLOAT] => 1583958925.379
+    [REQUEST_TIME] => 1583958925
+)
+
+<2020-03-19 13:16:54> Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT] => */*
+    [HTTP_APITOKEN] => WRCdmach38E2*$%Ghdo@nf#cOBD4fd
+    [CONTENT_TYPE] => application/json
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 33554
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/index.php/payment/5e73a8a13c078604c7562e4a
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PATH_INFO] => /payment/5e73a8a13c078604c7562e4a
+    [PATH_TRANSLATED] => /var/www/html/payment/5e73a8a13c078604c7562e4a
+    [PHP_SELF] => /braintree-service/index.php/payment/5e73a8a13c078604c7562e4a
+    [REQUEST_TIME_FLOAT] => 1584638214.901
+    [REQUEST_TIME] => 1584638214
+)
+
+<2020-03-22 23:32:42> Array
+(
+    [HTTP_HOST] => 75.187.208.82
+    [HTTP_ACCEPT] => */*
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; rv:68.0) Gecko/20100101 Firefox/68.0
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_X_DATADOG_TRACE_ID] => 15543499165985775047
+    [HTTP_X_DATADOG_PARENT_ID] => 5711533621607604974
+    [HTTP_X_DATADOG_SAMPLING_PRIORITY] => 1
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at 75.187.208.82 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => 75.187.208.82
+    [SERVER_ADDR] => 192.168.1.10
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 94.23.18.138
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 38158
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PHP_SELF] => /braintree-service/index.php
+    [REQUEST_TIME_FLOAT] => 1584887894.597
+    [REQUEST_TIME] => 1584887894
+)
+
+<2020-03-24 08:57:00> Array
+(
+    [HTTP_USER_AGENT] => Java/1.8.0_192
+    [HTTP_HOST] => 75.187.208.82
+    [HTTP_ACCEPT] => text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at 75.187.208.82 Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => 75.187.208.82
+    [SERVER_ADDR] => 192.168.1.10
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 52.17.247.98
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/braintree-service/index.php
+    [REMOTE_PORT] => 34382
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /braintree-service/
+    [SCRIPT_NAME] => /braintree-service/index.php
+    [PHP_SELF] => /braintree-service/index.php
+    [REQUEST_TIME_FLOAT] => 1585054620.611
+    [REQUEST_TIME] => 1585054620
+)
+
+<2020-03-28 13:01:23> Array
+(
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => 06a047b6-4948-45ce-b507-508f5de4a33b
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39048
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PHP_SELF] => /ttt/web-api/index.php
+    [REQUEST_TIME_FLOAT] => 1585414883.081
+    [REQUEST_TIME] => 1585414883
+)
+
+<2020-03-28 13:02:43> Array
+(
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => 46f9512a-89f9-4565-9a46-8ba1156513ec
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39066
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/mock-controller
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /mock-controller
+    [PATH_TRANSLATED] => /var/www/html/mock-controller
+    [PHP_SELF] => /ttt/web-api/index.php/mock-controller
+    [REQUEST_TIME_FLOAT] => 1585414963.104
+    [REQUEST_TIME] => 1585414963
+)
+
+<2020-03-28 13:02:58> Array
+(
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => 82aed1b6-e3bc-4f14-928d-6989a25138c0
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39074
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/mock-controller/123
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /mock-controller/123
+    [PATH_TRANSLATED] => /var/www/html/mock-controller/123
+    [PHP_SELF] => /ttt/web-api/index.php/mock-controller/123
+    [REQUEST_TIME_FLOAT] => 1585414978.555
+    [REQUEST_TIME] => 1585414978
+)
+
+<2020-03-28 13:03:14> Array
+(
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => 142c1c9d-e170-4a55-b7f1-3789bc66fdbf
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39080
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/send-mail/1223
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /send-mail/1223
+    [PATH_TRANSLATED] => /var/www/html/send-mail/1223
+    [PHP_SELF] => /ttt/web-api/index.php/send-mail/1223
+    [REQUEST_TIME_FLOAT] => 1585414994.546
+    [REQUEST_TIME] => 1585414994
+)
+
+<2020-03-28 13:05:07> Array
+(
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => 73d9d292-b91e-4706-9923-57128eb1d95f
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39092
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/mail-controller/1223
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /mail-controller/1223
+    [PATH_TRANSLATED] => /var/www/html/mail-controller/1223
+    [PHP_SELF] => /ttt/web-api/index.php/mail-controller/1223
+    [REQUEST_TIME_FLOAT] => 1585415107.56
+    [REQUEST_TIME] => 1585415107
+)
+
+<2020-03-28 13:05:18> Array
+(
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => 6ddf7219-49fd-475a-b140-861bf68d590e
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 0
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39100
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/mail-controller/1223
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /mail-controller/1223
+    [PATH_TRANSLATED] => /var/www/html/mail-controller/1223
+    [PHP_SELF] => /ttt/web-api/index.php/mail-controller/1223
+    [REQUEST_TIME_FLOAT] => 1585415118.169
+    [REQUEST_TIME] => 1585415118
+)
+
+<2020-03-28 13:05:59> Array
+(
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => a5dd5b34-7fa9-4dba-aa09-3a4b457e5279
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 0
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39106
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/mail-controller/1223
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /mail-controller/1223
+    [PATH_TRANSLATED] => /var/www/html/mail-controller/1223
+    [PHP_SELF] => /ttt/web-api/index.php/mail-controller/1223
+    [REQUEST_TIME_FLOAT] => 1585415153.413
+    [REQUEST_TIME] => 1585415153
+)
+
+<2020-03-28 13:07:27> Array
+(
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => 1dc154d2-5144-4c61-a973-56cad96dd468
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 0
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39116
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/mail-controller/1223
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /mail-controller/1223
+    [PATH_TRANSLATED] => /var/www/html/mail-controller/1223
+    [PHP_SELF] => /ttt/web-api/index.php/mail-controller/1223
+    [REQUEST_TIME_FLOAT] => 1585415242.795
+    [REQUEST_TIME] => 1585415242
+)
+
+<2020-03-28 14:04:29> Array
+(
+    [CONTENT_TYPE] => text/plain
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => e31c8175-949b-4b27-b70f-bbdf17eb054d
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 114
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39318
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/mail-controller/1223
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /mail-controller/1223
+    [PATH_TRANSLATED] => /var/www/html/mail-controller/1223
+    [PHP_SELF] => /ttt/web-api/index.php/mail-controller/1223
+    [REQUEST_TIME_FLOAT] => 1585418665.799
+    [REQUEST_TIME] => 1585418665
+)
+
+<2020-03-28 14:12:03> Array
+(
+    [CONTENT_TYPE] => text/plain
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => 140493c4-388d-47d3-8068-b9a557fb6ef7
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 114
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39350
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/mail-controller/1223
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /mail-controller/1223
+    [PATH_TRANSLATED] => /var/www/html/mail-controller/1223
+    [PHP_SELF] => /ttt/web-api/index.php/mail-controller/1223
+    [REQUEST_TIME_FLOAT] => 1585419122.247
+    [REQUEST_TIME] => 1585419122
+)
+
+<2020-03-28 14:14:38> Array
+(
+    [CONTENT_TYPE] => text/plain
+    [HTTP_USER_AGENT] => PostmanRuntime/7.24.0
+    [HTTP_ACCEPT] => */*
+    [HTTP_POSTMAN_TOKEN] => 5705b836-7811-4f39-bf80-185e753841d5
+    [HTTP_HOST] => localhost
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 114
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.38 (Ubuntu) Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.38 (Ubuntu)
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => /var/www/html
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/html
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/html/ttt/web-api/index.php
+    [REMOTE_PORT] => 39360
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ttt/web-api/index.php/mail-controller/1223
+    [SCRIPT_NAME] => /ttt/web-api/index.php
+    [PATH_INFO] => /mail-controller/1223
+    [PATH_TRANSLATED] => /var/www/html/mail-controller/1223
+    [PHP_SELF] => /ttt/web-api/index.php/mail-controller/1223
+    [REQUEST_TIME_FLOAT] => 1585419271.041
+    [REQUEST_TIME] => 1585419271
+)
+
